@@ -5,10 +5,9 @@
 I would like to discuss much more and go journey with you.
 
 ## experience
-[ETCZUNKS](https://etczunks.com/)
-
-[MGLEXCHANGE](https://exchange.mglcoin.io/)
-[MGLDEFI](https://defi.mglcoin.io/)
+[ETCZUNKS](https://etczunks.com/)_________
+[MGLEXCHANGE](https://exchange.mglcoin.io/)_________
+[MGLDEFI](https://defi.mglcoin.io/)_________
 - ERC20 ETH & BSC Tokens, ICO
 - NFT minting website, Smart contract, Generating NFT images
 - NFT metaverse game
