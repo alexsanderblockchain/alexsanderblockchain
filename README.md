@@ -1,10 +1,10 @@
-## Blockchain Daddy
+# Blockchain Daddy  💪💪💪
 
 3+ years in blockchain network - Ethereum, Polygon, BSC, Tron, Solana.
 
 I would like to discuss much more and go journey with you.
 
-# experience
+## experience
 - ERC20 ETH & BSC Tokens, ICO
 - NFT minting website, Smart contract, Generating NFT images
 - NFT metaverse game
