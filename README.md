@@ -14,3 +14,5 @@ I would like to discuss much more and go journey with you.
 ✔️Blockchain gambling
 ✔️Familiar with several networks: Solana, Polygon, Wax, Cardano, KCC
 ✔️have strong expertise in web/mobile app development
+
+aaa
